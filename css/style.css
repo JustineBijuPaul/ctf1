@@ -1,0 +1,9 @@
+
+@import "font-awesome.min.css";
+@import "pe-icon-7-stroke.min.css";
+@import "fonts.css";
+@import "bootstrap.css";
+@import "global.css";
+
+
+.label{color:#999}.carousel-control.left,.carousel-control.right{background-image:none;filter:none;background-repeat:repeat-x}.glyphicon-chevron-left:before{content:"\f104";font-family:fontawesome}.glyphicon-chevron-right:before{content:"\f105";font-family:fontawesome}.carousel-indicators li:before{content:""}
